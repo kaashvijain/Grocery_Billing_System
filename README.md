@@ -14,6 +14,7 @@ A Python-based grocery store management system with GUI interface.
 - Python 3.x
 - MySQL Server
 - Required Python packages (see requirements.txt)
+- Tkinter 
 
 ## Setup
 1. Install required packages:
