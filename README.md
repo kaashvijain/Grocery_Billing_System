@@ -1,5 +1,4 @@
 # Grocery Billing System
-
 A Python-based grocery store management system with GUI interface.
 
 ## Features
